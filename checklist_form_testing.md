@@ -1,3 +1,10 @@
+# Чек-лист
+Чек-лист в гугл таблице можно посмотреть [тут](https://docs.google.com/spreadsheets/d/1iRX1jJms1YhJvqEwGJ7zfAim3oLOC9q1uMbZZfd6K0A/edit?usp=sharing)
+
+Баг-репорты можно посмотреть [тут](https://github.com/sbrownbear/qa_practice/blob/main/bag_report_form_testing.md)
+
+Тестируемый [сайт](http://itcareer.pythonanywhere.com/)
+
 *id* | *titlle*	| *precondition* | *inputs*	| *er* | *ar* | *status* | *bug*
 ---|---|---|---|---|---|---|---
 __Name__

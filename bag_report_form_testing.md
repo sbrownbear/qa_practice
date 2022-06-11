@@ -1,3 +1,11 @@
+# Баг репорт
+
+Баг-репорт в гугл таблице можно посмотреть [тут](https://docs.google.com/spreadsheets/d/1iRX1jJms1YhJvqEwGJ7zfAim3oLOC9q1uMbZZfd6K0A/edit#gid=657581858)
+
+Чек-лист можно посмотреть [тут](https://github.com/sbrownbear/qa_practice/blob/main/checklist_form_testing.md)
+
+Тестируемый [сайт](http://itcareer.pythonanywhere.com/)
+
 Bug id | id_1
 ---|---
 Title|	Пользователь не может зарегистрироваться с 2 символами в поле name
