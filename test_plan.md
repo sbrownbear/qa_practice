@@ -1,4 +1,4 @@
- __Тест план__ в pdf формате можно посмотреть [тут](https://drive.google.com/file/d/1rhOCGzTjd6ZHhoiRxUoT55zY47De3IX0/view).
+ __Тест план__ в pdf формате можно посмотреть [тут](https://drive.google.com/file/d/1jA3aQEehWOBna7TFAMe5BeXWmGInfV-H/view?usp=sharing).
 
 __Ответственные лица.__
 
